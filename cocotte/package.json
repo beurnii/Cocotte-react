@@ -12,6 +12,7 @@
     "react-router": "^5.0.1",
     "react-scripts": "3.0.1",
     "react-util": "^3.0.1",
+    "scss": "^0.2.4",
     "typescript": "3.5.3"
   },
   "scripts": {
